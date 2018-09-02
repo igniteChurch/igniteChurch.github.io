@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Sep 2018 23:48:12 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress/ -O1 "C:\My Web Sites\Ignite Church" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:48:48	Warning: 	Moved Permanently for localhost/wordpress/?feed=rss2&p=95
+23:48:48	Warning: 	File has moved from localhost/wordpress/?feed=rss2&p=95 to http://localhost/wordpress/?tribe_events=sunday-service&feed=rss2
+23:48:48	Warning: 	Moved Permanently for localhost/wordpress/?p=95
+23:48:48	Warning: 	File has moved from localhost/wordpress/?p=95 to http://localhost/wordpress/?tribe_events=sunday-service
+23:48:49	Error: 	"Not Found" (404) at link localhost/wordpress/?tribe_events=sunday-service%26feed=rss2 (from localhost/wordpress/?feed=rss2&p=95)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 seconds : 73 links scanned, 69 files written (870720 bytes overall) [967871 bytes received at 26158 bytes/sec], 6.6 requests per connection
+(1 errors, 4 warnings, 0 messages)
